@@ -1,5 +1,5 @@
 <p align="center">
-Olá, me chamo Ewerton<br><br>Estou cursando Análise e desenvolvimento de sistemas. Tenho noções de Javascript, Python, C, HTML, CSS, Tailwind metodologias ágeis. Experiência prática em integrações, bots, ferramentas internas e soluções internas de T.I em ambientes corporativos (prefeitura e empresas privadas).
+Olá, me chamo Ewerton<br><br>Estou cursando Análise e desenvolvimento de sistemas. Tenho noções de Javascript, Python, C, HTML, CSS, Tailwind metodologias ágeis.
 </p>&nbsp;
  
  &nbsp;
